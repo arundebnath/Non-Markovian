@@ -1,0 +1,185 @@
+gg7
+10786.09  0.0022   5000.0    60000000.0       ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                         ! coupling parameter 
+10774.24                                      ! excitation energy
+10786.09                                      ! excitation energy
+4                                             ! temperature
+0.00144                                       ! cut off
+
+39000000.d0                                   ! coupling parameter 
+
+
+
+
+
+nn9                                           ! title: exactly 3 characters
+10774.24  0.00012  2000.0  -40000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+00.d0                                         ! coupling parameter 
+10774.24                                      ! excitation energy
+10786.09                                      ! excitation energy
+4 
+0.00072
+10774.24                                      ! excitation energy
+39000000.d0                                   ! coupling parameter 
+
+
+gh8                                           ! title: exactly 3 characters
+10786.09  0.0042   500.0    60000000.0   ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+10786.09                                      ! excitation energy
+40 
+0.00072
+10774.24                                      ! excitation energy
+39000000.d0                                   ! coupling parameter 
+
+10774.24  0.000360141    500.0      785400.0  ! w0 (in cm-1),e0,tau0,phisec,coimag
+
+n80                                           ! title: exactly 3 characters
+10774.24  0.0000445888   5000.0  -40000000.0   ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+80
+0.00072
+
+n04                                           ! title: exactly 3 characters
+10774.24  0.0000445888   5000.0 -40000000.0   ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4
+0.00072
+
+trb                                           ! title: exactly 3 characters
+10774.24  0.0000445888   5000.0 -5000000.0    ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4
+0.00072
+
+
+t00                                           ! title: exactly 3 characters
+10774.24  0.0000445888   5000.0 -0.0   ! w0 (in cm-1),e0,tau0,phisec,coimag
+000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4
+0.00072
+
+
+tne                                           ! title: exactly 3 characters
+10774.24  0.0000445888   5000.0 -40000000.0   ! w0 (in cm-1),e0,tau0,phisec,coimag
+39000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4
+0.00072
+
+
+tn2                                           ! title: exactly 3 characters
+10774.24  0.0004067  200.0  125663.7          ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+80                                            ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+10774.24  0.0012862  200.0  125663.7          ! w0 (in cm-1),e0,tau0,phisec,coimag
+
+p40                                           ! title: exactly 3 characters
+10774.24  0.00012862  2000.0  40000000.0      ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+40                                            ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+tn2                                           ! title: exactly 3 characters
+10774.24  0.0012862  200.0  0.0               ! w0 (in cm-1),e0,tau0,phisec,coimag
+000000.0                                      ! coupling parameter 
+10774.24                                      ! excitation energy
+80                                            ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+10774.24  0.0012862  200.0  125663.7           ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.0                                    ! coupling parameter 
+
+tts                                           ! title: exactly 3 characters
+10774.24  0.0001286 2000.0  000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4                                             ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+pcc                                           ! title: exactly 3 characters
+10774.24  0.00012  2000.0  40000000.0         ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+50                                            ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+psh                                           ! title: exactly 3 characters
+10774.24  0.00012  2000.0  40000000.0         ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+30                                            ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+
+spo                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0  40000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4                                             ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+s00                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0 -1200000.0         ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+4                                             ! temperature (in K)
+0.00144                                       ! cut-off (in eV)
+
+
+ss3                                           ! title: exactly 3 characters
+10774.24  0.00006  8000.0  -40000000.0        ! w0 (in cm-1),e0(in a.u.) ,tau0 (in fs),phisec (in fs^2)
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy (in cm-2)
+4                                             ! temperature (in K)
+0.00144                                       ! mcut-off (in eV)
+
+ram                                           ! title: exactly 3 characters
+10774.24  0.00006  8000.0  0.0                ! w0 (in cm-1),e0(in a.u.) ,tau0 (in fs),phisec (in fs^2)
+46487200.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy (in cm-2)
+5                                             ! temperature (in K)
+0.00144                                       ! mcut-off (in eV)
+
+46487200.d0                                   ! coupling parameter 
+
+ttt                                           ! title: exactly 3 characters
+10774.24  0.00012  2000.0  0.0                ! w0 (in cm-1),e0(in a.u.) ,tau0 (in fs),phisec (in fs^2)
+10000000.d0                                   ! coupling parameter 
+10754.24                                      ! excitation energy (in cm-2)
+4                                             ! temperature (in K)
+0.00144                                       ! mcut-off (in eV)
+
+this worked for adiabatic
+adi                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0 -40000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+0.d0                                          ! coupling parameter 
+10774.24                                      ! excitation energy
+
+this worked for comparison with exp:
+s00                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0 -1200000.0         ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+
+this worked for positive chirp       
+spo                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0  40000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+
+this worked for negative chirp       
+sne                                           ! title: exactly 3 characters
+10774.24  0.00012   2000.0 -40000000.0        ! w0 (in cm-1),e0,tau0,phisec,coimag
+10000000.d0                                   ! coupling parameter 
+10774.24                                      ! excitation energy
+

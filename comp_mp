@@ -1,0 +1,1 @@
+ifort -o qd_new_berlin.exe -static -openmp -O4 qd_new_belrin.f rk_ch.f
