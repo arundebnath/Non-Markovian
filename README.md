@@ -1,4 +1,4 @@
-# Quantum-dynamics codes 
-These codes were written during 2009-2014.
-The primary objective was to simulate non Markovian dynamics of exciton coupled with a phonon reservoir. The theory is based on the density-matrix propagation.
+# Non Markovian dynamics
+These codes were written during 2009-2014 and were applied to describe the ultrafast dynamics of a laser driven exciton system interacting with a photon reservoir.
+It simulates the dynamics by via a time-local numerical scheme while treating the shaped laser pulse exactly. 
 
